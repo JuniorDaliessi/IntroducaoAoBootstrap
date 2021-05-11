@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar{
+    background-color: #044da0;
+}
+
+#quem-somos{
+    background-color: #2b73d1;
+    color: rgb(253, 251, 251);
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.parceiros{
+    background-color: rgb(80, 136, 240);
+    color: white;
+}
+
+.bg-footer{
+    background-color: #044da0;
+    color: white;
+}
+
